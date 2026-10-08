@@ -3,7 +3,9 @@
 A small computer-vision experiment built around a custom YOLO model trained to distinguish Terrorist and Counter-Terrorist players in Counter-Strike: Global Offensive.
 
 The interesting part of the project is not just the detector. The project connects model inference to a complete real-time pipeline: screen capturing, object detection, class filtering, target localization, coordinate transformation, and automated mouse interaction.
+
 https://github.com/user-attachments/assets/d4007c49-dee0-4a0a-ace8-373cf0f08b91
+
 > **Educational note:** This repository is intended for computer-vision experimentation and should only be used where automated input is permitted.
 
 ## 🕹️ Pipeline
